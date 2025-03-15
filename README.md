@@ -2,7 +2,7 @@
 # 💫 About Me:
 ![tintin-tin-tin](https://github.com/user-attachments/assets/f4aa3001-0d30-47e7-8f3c-d085eb3f4f9b)
 
-👋 Hello, I'm Amirali<br>🚀 Aspiring Data Analyst <br><br>I am passionate about transforming raw data into meaningful insights using SQL, Power BI, and Python. I enjoy working with data to uncover patterns, optimize decision-making, and create compelling visualizations.<br><br>🔹 Skilled in: Data analysis, SQL, Power BI, Excel, Python (Pandas, Matplotlib, Seaborn).<br>🔹 Interested in: Business intelligence, predictive modeling, and data visualization.<br>🔹 Always Learning: Advanced statistical methods, automation, and machine learning.<br><br>I’m currently exploring new ways to leverage data-driven insights in various industries! Let’s connect and collaborate on exciting projects. 📊
+👋 Hello, I'm Amirali<br>🚀 Aspiring Data Analyst <br><br>I am passionate about transforming raw data into meaningful insights using SQL, Power BI, and Python. I enjoy working with data to uncover patterns, optimize decision-making, and create compelling visualizations.<br><br>🔹 Skilled in: Data analysis, SQL, Power BI, Excel, Python (Pandas, Matplotlib, Seaborn).<br>🔹 Interested in: Business intelligence, predictive modeling, and data visualization.<br><br><br>I’m currently exploring new ways to leverage data-driven insights in various industries! Let’s connect and collaborate on exciting projects. 📊
 
 
 ## 🌐 Socials:
